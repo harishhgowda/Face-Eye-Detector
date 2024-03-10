@@ -11,4 +11,4 @@ This is basically an implementation of a Face and Eye Detection using Opencv Def
       pip install opencv-python
     ```
 #### Results : (I look Ugly :disappointed: )
-  ![alt text](https://github.com/moadmmh/Python-Heaven/blob/master/Face_Eye_Detection/Results.PNG)
+  ![alt text](https://github.com/harishhgowda/Face-Eye-Detector/blob/main/Result.png)
